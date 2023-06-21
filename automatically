@@ -1,2 +1,3 @@
 trigger build remotely
 via ci/cd
+ci/cd oneclik2
