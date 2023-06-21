@@ -1,1 +1,2 @@
 trigger build remotely
+via ci/cd
